@@ -1,0 +1,17 @@
+//Images
+*.jpg
+*.jpeg
+*.png
+*.ico
+*.svg
+
+**/*.jpg
+**/*.jpeg
+**/*.png
+**/*.ico
+**/*.svg
+
+
+.DS_Store
+*.env
+
